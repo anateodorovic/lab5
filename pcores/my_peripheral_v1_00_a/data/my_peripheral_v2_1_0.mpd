@@ -58,6 +58,6 @@ PORT S_AXI_AWREADY = AWREADY, DIR = O, BUS = S_AXI
 ## Ports 
 PORT DIP_Data = "", DIR = I, VEC = [7:0]
 PORT LED_Data = "", DIR = O, VEC = [7:0]
-
+PORT o_system_start_irq = "", DIR = O, SIGIS = INTERRUPT, SENSITIVITY = EDGE_RISING
 
 END

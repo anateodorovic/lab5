@@ -137,3 +137,29 @@
 09:39:04.953 INFO  - Refreshed build settings on project hello_world 
 10:33:44.745 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
 10:36:10.473 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:56:55.575 INFO  - Restoring local repository preferences: 
+		 D:\work\lprs2\2013_2014\Resene_vezbe\lab56\basic_system 
+10:56:55.979 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:56:55.990 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:56:56.041 WARN  - Unable to determine location of documentation for OS . 
+10:56:56.045 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:56:56.051 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:20.986 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:22.058 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:22.064 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:22.065 WARN  - Unable to determine location of documentation for OS . 
+10:57:22.069 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:22.075 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:27.676 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:27.855 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:27.864 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:27.874 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:27.882 ERROR - Unable to read in MSS file D:\RA191-2016\lab5\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+10:57:34.637 INFO  - Settings changed on project hello_world_bsp. Triggering a rebuild... 
+11:02:12.306 INFO  - FPGA configured successfully with bitstream "D:/RA191-2016/lab5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+11:23:05.014 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+12:00:52.864 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:10:49.742 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:11:41.400 WARN  - Terminating existing sessions on processor microblaze_0 
+11:11:42.733 INFO  - FPGA configured successfully with bitstream "D:/RA191-2016/lab5/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+12:10:32.213 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

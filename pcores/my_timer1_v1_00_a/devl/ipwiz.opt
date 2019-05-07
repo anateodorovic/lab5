@@ -1,0 +1,9 @@
+-batch 
+-create my_timer1 
+-ver 1.00.a 
+-dir "D:\RA191-2016\lab5\lab5" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 4 
+-xps 
+-ise 
